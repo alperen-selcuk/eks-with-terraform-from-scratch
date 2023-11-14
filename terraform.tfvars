@@ -1,3 +1,5 @@
+## You can use your own values, but this code works well as long as your CIDR block is not the same as yours.
+
 platform = "dev"
 
 cidr_block = "10.100.0.0/16"
